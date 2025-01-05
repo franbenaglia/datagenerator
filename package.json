@@ -9,6 +9,8 @@
   "author": "fab",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.7.9",
+    "combined-stream": "^1.0.8",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
